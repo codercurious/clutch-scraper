@@ -1,3 +1,5 @@
+# Clutch Scraper
+Interested in using this scraper? Get it here: [Clutch Scraper](https://apify.com/curious_coder/clutch-scraper)
 Scrape thousands of tech companies and their hourly rates, reviews, websites, etc from clutch.co 
 
 ![Screenshot of clutch reviews scraping](https://pbs.twimg.com/media/F1S26u9aUAA6MiO?format=jpg&name=4096x4096)
