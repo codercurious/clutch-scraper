@@ -1,5 +1,5 @@
 # Clutch Scraper
-Interested in using this scraper? Get it here: [Clutch Scraper](https://apify.com/curious_coder/clutch-scraper)
+Interested in using this scraper? Get it here: [Clutch Scraper](https://apify.com/curious_coder/clutch-scraper?fpr=ve081&fp_sid=github_clutch-scraper)
 ## Overview
 [Clutch.co](https://clutch.co) is an online business directory where you can search, find and decide on a service provider in record time. 
 
@@ -35,7 +35,7 @@ You can scrape any company listing page by just copy pasting the URL from your b
 ## Clutch.co data Export
 
 The actor stores results in a dataset. You can export data in various formats such as CSV, JSON, XLS, etc. 
-You can scrape and access data on demand using API. For more information, Go to [clutch.co companies API integration](https://apify.com/curious_coder/clutch-scraper/api/endpoints) page.
+You can scrape and access data on demand using API. For more information, Go to [clutch.co companies API integration](https://apify.com/curious_coder/clutch-scraper/api/endpoints?fpr=ve081&fp_sid=github_clutch-scraper) page.
 
 ## Scraped Clutch.co Company Profiles
 
@@ -129,11 +129,11 @@ These use cases demonstrate the versatility and value of the Clutch Scraper Apif
 
 ## Is it legal to scrape clutch.co ?
 Our scrapers are ethical and do not extract any private user data, such as email addresses, gender, or location. They only extract what the user has chosen to share publicly. We therefore believe that our scrapers, when used for ethical purposes by Apify users, are safe. 
-However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European) in the European Union and by other regulations around the world. 
-You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/)
+However, you should be aware that your results could contain personal data. Personal data is protected by the [GDPR](https://docs.apify.com/academy/get-most-of-actors/actor-readme#:~:text=protected%20by%20the-,GDPR,-in%20the%20European?fpr=ve081&fp_sid=github_clutch-scraper) in the European Union and by other regulations around the world. 
+You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. You can also read our blog post on the [legality of web scraping](https://blog.apify.com/is-web-scraping-legal/?fpr=ve081&fp_sid=github_clutch-scraper)
 
 ## Your feedback
-We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for Indeed Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/ue0DjiPkbPaZSlku6/issues) tab in Apify Console
+We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for Indeed Scraper or simply found a bug, please create an issue on the actor’s [Issues](https://console.apify.com/actors/ue0DjiPkbPaZSlku6/issues?fpr=ve081&fp_sid=github_clutch-scraper) tab in Apify Console
 
 For additional information you can email us at [heycuriouscoder@gmail.com](mailto:heycuriouscoder@gmail.com)
 
